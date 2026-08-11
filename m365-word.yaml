@@ -28,7 +28,7 @@ icon: https://img.icons8.com/?size=100&id=13674&format=png&color=000000
 repoURL: https://github.com/obot-platform/microsoft-office-365-mcp/tree/main/word
 runtime: remote
 remoteConfig:
-  fixedURL: https://dev-m365-word-mcp.obot.ai/mcp
+  fixedURL: https://dev-m365-word-mcp.obot.ai/mcp/
 toolPreview:
   - name: list_docs
     description: List all Microsoft Word documents available to the user in OneDrive.
